@@ -22,11 +22,11 @@
     height: 4.5vw;
     background-color: #01bf71;
   }
-  .available
+  #available
   {
     color: #01bf71;
   }
-  .busy
+  #busy
   {
     color: red;
   }
